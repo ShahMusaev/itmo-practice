@@ -138,4 +138,4 @@ def tsne_plot_similar_words(labels, embedding_clusters, word_clusters, a=0.7):
 
 tsne_plot_similar_words(keys, embeddings_en_2d, word_clusters)
 ```
-
+![alt text](https://github.com/ShahMusaev/itmo-practice/blob/master/Picture.png?raw=true)
